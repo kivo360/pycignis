@@ -37,7 +37,7 @@ Using PyCignus, developers can quickly scaffold projects with the use of built-i
 
 # Images
 
-!! ![inboard](https://inboard.bws.bio/docker) containers are used for the web piece.
+> [inboard](https://inboard.bws.bio/docker) containers are used for the web piece.
 
 TO run the image, either for development or for production you can run the following commands:
 
